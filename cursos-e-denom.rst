@@ -1,18 +1,17 @@
-=====================================
-CATÁLOGO NACIONAL DOS CURSOS TÉCNICOS
-=====================================
+==============================================
+Cursos técnicos Pronatec: temas e denominações
+==============================================
 
-----------------------
-Tabela de convergência
-----------------------
+Temas e denominações a serem utilizadas para cursos técnicos no eixo "Informação e Comunicação" e denominações anteriormente empregadas no Brasil.
 
-Denominações a serem utilizadas para cursos técnicos no eixo "Informação e Comunicação" e denominações anteriormente empregadas no Brasil. Para cada curso, o parágrafo descritivo e os temas foram copiados do site do Catálogo Nacional dos Cursos Técnicos
+Para cada curso, o parágrafo descritivo e os temas foram copiados do site do Catálogo Nacional dos Cursos Técnicos do Pronatec.
 
 Fontes:
-http://pronatec.mec.gov.br/cnct/et_informacao_comunicacao/et_informacao_comunicacao.php
-http://pronatec.mec.gov.br/cnct/pdf/tabela_convergencia.pdf
 
-TÉCNICO EM INFORMÁTICA
+* http://pronatec.mec.gov.br/cnct/et_informacao_comunicacao/et_informacao_comunicacao.php
+* http://pronatec.mec.gov.br/cnct/pdf/tabela_convergencia.pdf
+
+Técnico em Informática
 ======================
 
 Desenvolve programas de computador, seguindo as especificações e paradigmas da lógica de programação e das linguagens de programação. Utiliza ambientes de desenvolvimento de sistemas, sistemas operacionais e banco de dados. Realiza testes de programas de computador, mantendo registros que possibilitem análises e refinamento dos resultados. Executa manutenção de programas de computadores implantados.
@@ -52,7 +51,7 @@ Denominações anteriores
 * Processamento de dados.
 
 
-TÉCNICO EM INFORMÁTICA PARA INTERNET
+Técnico em Informática para Internet
 ====================================
 
 Desenvolve programas de computador para internet, seguindo as especificações e paradigmas da lógica de programação e das linguagens de programação. Utiliza ferramentas de desenvolvimento de sistemas, para construir soluções que auxiliam o processo de criação de interfaces e aplicativos empregados no comércio e marketing eletrônicos. Desenvolve e realiza a manutenção de sites e portais na internet e na intranet.
@@ -93,7 +92,7 @@ Denominações anteriores
 * Software livre.
 
 
-TÉCNICO EM PROGRAMAÇÃO DE JOGOS DIGITAIS
+Técnico em Programação de Jogos Digitais
 ========================================
 
 Compõe equipes multidisciplinares na construção dos jogos digitais. Utiliza técnicas e programas de computadors especializados de tratamento de imagens e sons. Desenvolve recursos, ambientes, objetos e modelos a ser utilizados nos jogos digitais. Implementa recursos que possibilitem a interatividade dos jogadores com o programas de computador. Integra os diversos recursos na construção do jogo.
